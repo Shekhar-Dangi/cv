@@ -1,0 +1,19 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style:dotted none none;
+  border-width: 10px;
+  border-color: grey;
+  /* background: white; */
+  /* height: 20px; */
+  width: 5%;
+}
+h1{
+  color: #521262;
+  letter-spacing: 1px;
+}
+h3{
+  color: #97DBAE;
+  letter-spacing: 1px;
+}
